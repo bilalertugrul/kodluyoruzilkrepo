@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-[MarkDown](https://github.com/bilalertugrul/kodluyoruzilkrepo/blob/main/markdown.JPG)
+![MarkDown](https://github.com/bilalertugrul/kodluyoruzilkrepo/blob/main/markdown.JPG)
 
 # Installation
 
